@@ -1,5 +1,5 @@
 import telebot
-bot = telebot.TeleBot('7691391843:AAENzXn6zxh4c8b_GgQAFc4oJvtzu8nZzO8')
+bot = telebot.TeleBot('NUH UH')
 
 from keras.models import load_model 
 from PIL import Image, ImageOps
